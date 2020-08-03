@@ -6,7 +6,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["FUMI-POPPIN", "James Neve"]
   spec.email         = ["fumitake.kawasaki@el-soul.com", "jamesoneve@gmail.com"]
 
-  spec.summary       = "Agoda Crawler"
+  spec.summary       = "Agoda Data Crawler"
   spec.description   = "Empower World Travel Information Technology"
   spec.homepage      = "https://github.com/elsoul/agoda-crawler"
   spec.license       = "MIT"
